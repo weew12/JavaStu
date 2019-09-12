@@ -20,3 +20,12 @@
     - List(有序、可重复)
     - Set(无需、不可重复)
     - Map(键值对、键为 Set 集合、值为 Collection 集合)
+- 泛型
+  - Genericity
+    - Example_1 (不使用泛型的缺点)
+	- Example_2、Example_3 (Set使用泛型)
+	- Example_4 (Map 使用泛型)
+	- Genericity_function (泛型方法)
+	- Genericity_interface (泛型接口)
+	- DS_Queue (利用泛型实现队列)
+	
