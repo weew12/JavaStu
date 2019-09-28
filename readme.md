@@ -37,3 +37,11 @@
     - FileCpoyWithBuffer2(字符缓冲流)
     - FileCpoyWithBuffer3(字节流转换字符流)
     - FileInputTest(文件读取测试)
+- 注解
+  - Annotation_Override(@SafeVarargs)
+  - AnnotationSupressWarnings(@Deprecated、@SuppressWarnings)
+  - ReadAnnotationInfo(获取注解信息)
+  - TheCustomAnnotation(使用元注解)
+  - TheCustomAnnotation2(自定义注解)
+  - AnnotationDeprecated(@Deprecated)
+  - Annotation_Override(@Override)
