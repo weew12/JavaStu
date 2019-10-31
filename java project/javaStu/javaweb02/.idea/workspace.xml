@@ -9,12 +9,10 @@
     <bookmark url="file://$PROJECT_DIR$/src/weew12/web/servlet/Aservlet.java" line="37" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e271435-6f4d-44a0-b217-88a3791a192a" name="Default Changelist" comment="">
+    <list default="true" id="1e271435-6f4d-44a0-b217-88a3791a192a" name="Default Changelist" comment="change info">
       <change beforePath="$PROJECT_DIR$/../GraphicVerificationCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GraphicVerificationCode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/javaweb02_war_exploded/WEB-INF/classes/weew12/web/servlet/Aservlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/javaweb02_war_exploded/WEB-INF/classes/weew12/web/servlet/Aservlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weew12/web/servlet/Aservlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weew12/web/servlet/Aservlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/weew12/web/servlet/Aservlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/weew12/web/servlet/Aservlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../项目实战/PetStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../项目实战/PetStore/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../项目实战/PetStore/src/com/weew12/jpetstore/ui/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../项目实战/PetStore/src/com/weew12/jpetstore/ui/MainApp.java" afterDir="false" />
     </list>
@@ -30,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/weew12/web/servlet/Aservlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-558">
-              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="179">
+              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#844#845#0" expanded="true" />
@@ -204,7 +202,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572526246185" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572526366125" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -316,18 +314,25 @@
       <option name="presentableId" value="Default" />
       <updated>1572430041425</updated>
       <workItem from="1572430044432" duration="6308000" />
-      <workItem from="1572512921573" duration="4554000" />
+      <workItem from="1572512921573" duration="4823000" />
     </task>
+    <task id="LOCAL-00001" summary="change info">
+      <created>1572526261486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572526261486</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10862000" />
+    <option name="totallyTimeSpent" value="11131000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="432" y="450" width="1622" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16133162" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -337,7 +342,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22322436" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22098215" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,10 +351,10 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32924107" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.32924107" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -363,6 +368,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change info" />
+    <option name="LAST_COMMIT_MESSAGE" value="change info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -459,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/weew12/web/servlet/Aservlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-558">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="179">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#844#845#0" expanded="true" />
