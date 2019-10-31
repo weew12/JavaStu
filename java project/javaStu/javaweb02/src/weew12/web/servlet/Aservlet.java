@@ -3,6 +3,7 @@ package weew12.web.servlet;
 import javax.servlet.*;
 import javax.servlet.annotation.WebServlet;
 import java.io.IOException;
+import java.io.PrintWriter;
 
 /**
  * @Classname Aservlet
@@ -18,26 +19,36 @@ import java.io.IOException;
                 *         <url-pattern>/ServletA</url-pattern>
                 *     </servlet-mapping>
  *              方式2、直接使用注解
-*                @WebServlet(name = "Aservlet", urlPatterns = {"/ServletA"})
+ *              @WebServlet(name = "Aservlet", urlPatterns = {"/ServletA"})
  * @Date 2019-10-30
  * @Created by 枫weew12
  */
 @WebServlet(name = "Aservlet", urlPatterns = {"/ServletA"})
 public class Aservlet implements Servlet {
+
+    private transient ServletConfig servletConfig;
+
     @Override
     public void init(ServletConfig servletConfig) throws ServletException {
+        this.servletConfig = servletConfig;
         System.out.println("init()");
     }
 
     @Override
     public ServletConfig getServletConfig() {
         System.out.println("getServletConfig()");
-        return null;
+        return servletConfig;
     }
 
     @Override
-    public void service(ServletRequest servletRequest, ServletResponse servletResponse) throws ServletException, IOException {
+    public void service(ServletRequest servletRequest, ServletResponse servletResponse) throws IOException {
         System.out.println("serviceA()");
+        String servletName = servletConfig.getServletName();
+        servletResponse.setContentType("text/html");
+        PrintWriter writer = servletResponse.getWriter();
+        writer.print("<html><head></head>"
+                + "<body><h1>Hello from " + servletName
+                + "</h1></body></html>");
     }
 
     @Override
