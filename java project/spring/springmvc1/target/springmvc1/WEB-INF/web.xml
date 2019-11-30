@@ -1,0 +1,28 @@
+<web-app version="2.5"
+         xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" >
+  <display-name>Archetype Created Web Application</display-name>
+  <!--注册servlet-->
+  <servlet>
+    <!--名称 -->
+    <servlet-name>springmvc</servlet-name>
+    <!-- Servlet类 -->
+    <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+    <init-param>
+      <!--SpringMVC配置参数文件的位置 -->
+      <param-name>contextConfigLocation</param-name>
+      <!--这里是存放在resources目录下的springmvc-servlet.xml -->
+      <param-value>classpath*:springmvc-servlet.xml</param-value>
+    </init-param>
+    <!-- 启动顺序，数字越小，启动越早 -->
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+
+  <!--所有请求都会被springmvc拦截 -->
+  <servlet-mapping>
+    <servlet-name>springmvc</servlet-name>
+    <url-pattern>/</url-pattern>
+  </servlet-mapping>
+</web-app>
