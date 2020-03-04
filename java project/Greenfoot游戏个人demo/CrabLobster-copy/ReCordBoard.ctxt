@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ReCordBoard
+comment0.text=\r\n\ \u5C55\u793A\u6E38\u620F\u7684\u6570\u636E\r\n\ \u6BCF\u5F53\u8783\u87F9\u5403\u6389\u4E00\u53EA\u6C99\u866B\ \u8783\u87F9\u5F971\u5206\r\n\ \u6BCF\u5F53\u9F99\u867E\u5403\u6389\u4E00\u53EA\u8783\u87F9\ \u8783\u87F9\u751F\u547D\u503C\ \u51CF1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=score\ life
+comment2.target=void\ draw(int,\ int)
+numComments=3

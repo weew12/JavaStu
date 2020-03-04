@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SettingScreen
+comment1.params=width\ height
+comment1.target=greenfoot.GreenfootImage\ getAnGreenfootImage(int,\ int)
+comment2.params=
+comment2.target=void\ change()
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

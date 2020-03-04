@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\r\n\ \ \u8783\u87F9\u521D\u59CB5\u6761\u547D\r\n\ \ \u5F53\u8783\u87F9\u751F\u547D\u503C\u8017\u5C3D\ \u6E38\u620F\u7ED3\u675F\r\n\ \ \u663E\u793AGameOver\ \u63D0\u793A\u754C\u9762\r\n
+comment1.params=
+comment1.target=GameOver()
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=
+comment3.target=void\ change()
+numComments=4

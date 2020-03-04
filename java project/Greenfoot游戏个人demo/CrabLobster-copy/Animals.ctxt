@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Animals
+comment1.params=
+comment1.target=CrabWorld\ getWorld()
+comment2.params=
+comment2.target=void\ eat()
+comment3.params=area
+comment3.target=int\ getRandomNumber(int)
+comment4.params=
+comment4.target=void\ turnAtEdge()
+numComments=5

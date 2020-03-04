@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GameWin
+comment0.text=\r\n\ \u5F53\u8783\u87F9\u5403\u63899\u4E2A\u6C99\u866B\ \u8783\u87F9\u83B7\u80DC\r\n\ \u6E38\u620F\u7ED3\u675F\ \u5F39\u51FA\ GameWin\u754C\u9762\r\n
+comment1.params=
+comment1.target=GameWin()
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=
+comment3.target=void\ change()
+numComments=4
