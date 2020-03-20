@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Pic
+comment0.text=\r\n\ \u56FE\u7247\u7C7B\uFF0C\u7528\u6765\u8868\u793A\u7EC4\u6210\u5B8C\u6574\u62FC\u56FE\u7684\u6BCF\u4E2A\u56FE\u7247\r\n
+comment1.params=value\ level
+comment1.target=Pic(int,\ int)
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ update()
+comment5.params=x\ y
+comment5.target=boolean\ checkPic(int,\ int)
+numComments=6

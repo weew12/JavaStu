@@ -1,0 +1,4 @@
+|Record:1584708994248  |Time:0  |steps:0  |type:1  |
+|Record:1584709994065  |Time:38 |steps:64 |type:1  |
+|Record:1584710665709  |Time:59 |steps:87 |type:1  |
+|Record:1584710440782  |Time:62 |steps:94 |type:1  |
