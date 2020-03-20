@@ -1,0 +1,10 @@
+|Record:1584110770752  |Time:0  |flipCards:44 |type:3  |
+|Record:1584169943342  |Time:0  |flipCards:66 |type:3  |
+|Record:1584157711867  |Time:7  |flipCards:16 |type:1  |
+|Record:1584149022937  |Time:8  |flipCards:16 |type:1  |
+|Record:1584154070848  |Time:10 |flipCards:20 |type:1  |
+|Record:1584152525517  |Time:10 |flipCards:22 |type:1  |
+|Record:1584157366200  |Time:12 |flipCards:20 |type:1  |
+|Record:1584152408512  |Time:12 |flipCards:22 |type:1  |
+|Record:1584241371355  |Time:13 |flipCards:22 |type:1  |
+|Record:1584153178166  |Time:13 |flipCards:26 |type:1  |

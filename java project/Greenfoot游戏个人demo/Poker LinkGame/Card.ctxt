@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ \u6251\u514B\u724C\u7C7B\uFF0C\u53EF\u4EE5\u88AB\u7FFB\u5F00\r\n\ \u53EF\u4EE5\u8BB0\u5F55\u81EA\u8EAB\u88AB\u70B9\u51FB\u7684\u6B21\u6570\r\n\ \u6CE8\uFF1A\ int\ \u9ED8\u8BA4\u4E3A-1\ boolean\ \u9ED8\u8BA4\u4E3Afalse\ \u5BF9\u8C61\u5F15\u7528\u9ED8\u8BA4\u672A\u8D4B\u503C\u4E3Anull\ \u6545\u6B64\u5904\u4E0D\u505A\u91CD\u590D\u8D4B\u503C\r\n
+comment1.params=cardValue\ choose
+comment1.target=Card(int,\ int)
+comment1.text=\r\n\ Card\u7C7B\u7684\u6784\u9020\u65B9\u6CD5\r\n\ @param\ cardValue\:\ \u724C\u9762\u7684\u70B9\u6570\r\n\ @param\ choose\:\ \u724C\u9762\u82B1\u8272\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act()\u65B9\u6CD5\u662F\u6E38\u620F\u5355\u6B65\u6267\u884C\u7684\u52A8\u4F5C\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\r\n\ \u83B7\u53D6\u8FD9\u5F20\u724C\u7684\u70B9\u6570\r\n
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment4.text=\r\n\ \u83B7\u53D6\u8FD9\u5F20\u724C\u7684\u82B1\u8272\r\n
+comment5.params=
+comment5.target=boolean\ getFaceup()
+comment5.text=\r\n\ \u83B7\u53D6\u8FD9\u5F20\u724C\u662F\u5426\u5DF2\u7FFB\u9762\r\n
+comment6.params=
+comment6.target=void\ turnFaceDown()
+comment6.text=\r\n\ \u5C06\u724C\u7FFB\u6210\u80CC\u90E8\u671D\u4E0A\r\n
+comment7.params=
+comment7.target=int\ getCount()
+comment7.text=\r\n\ \u83B7\u53D6\u724C\u88AB\u7FFB\u5F00\u7684\u6B21\u6570\r\n
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameRecord
+comment0.text=\r\n\ \u5386\u53F2\u8BB0\u5F55\r\n
+comment1.params=
+comment1.target=GameRecord()
+comment1.text=\r\n\ \u6784\u9020\u51FD\u6570\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
