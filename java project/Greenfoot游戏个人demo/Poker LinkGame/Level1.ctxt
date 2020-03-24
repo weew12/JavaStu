@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Level1
+comment0.text=\r\n\ \u724C\u684C\u7C7B\uFF0C\u63D0\u4F9B\u6E38\u620F\u7684\u8FD0\u884C\u573A\u666F\r\n
+comment1.params=
+comment1.target=Level1()
+comment1.text=\r\n\ Table\u7C7B\u7684\u6784\u9020\u65B9\u6CD5\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act()\u65B9\u6CD5\u662F\u6E38\u620F\u5355\u6B65\u6267\u884C\u7684\u52A8\u4F5C\r\n
+comment3.params=
+comment3.target=void\ updateCounter()
+comment3.text=\r\n\ \u83B7\u53D6\u5386\u53F2\u70B9\u6570\u5E76\u4E14\u66F4\u65B0\u8BA1\u6570\u5668\r\n
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ \u4E3A\u7A0B\u5E8F\u542F\u52A8\u51C6\u5907\u573A\u666F\r\n\ \u5373\uFF1A\u521B\u5EFA\u521D\u59CB\u7684\u7269\u4F53\u5E76\u5C06\u5176\u52A0\u5165\u573A\u666F\u3002\r\n
+numComments=5

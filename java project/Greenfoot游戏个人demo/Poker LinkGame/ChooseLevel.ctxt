@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ChooseLevel
+comment0.text=\r\n\ \u96BE\u5EA6\u9009\u62E9\u754C\u9762\r\n\ \u96BE\u5EA6\u4E00\ \u666E\u901A\u6A21\u5F0F\r\n\ \u96BE\u5EA6\u4E8C\ \u4E2D\u7EA7\u6A21\u5F0F\r\n\ \u96BE\u5EA6\u4E09\ \u56F0\u96BE\u6A21\u5F0F\r\n
+comment1.params=
+comment1.target=ChooseLevel()
+comment2.params=
+comment2.target=void\ initChooseLevel()
+comment2.text=\r\n\ StartWindow\ \u521D\u59CB\u5316\u573A\u666F\r\n
+comment3.params=
+comment3.target=void\ initScenario()
+comment3.text=\r\n\ \u521D\u59CB\u5316\u5F53\u524Dworld\u573A\u666F\r\n
+numComments=4
