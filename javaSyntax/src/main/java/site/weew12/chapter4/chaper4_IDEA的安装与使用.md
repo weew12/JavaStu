@@ -13,10 +13,10 @@ Jetbrains公司官网
 
 ![img_2.png](img_2.png)     
 
-*编译输出目录设置*
+*编译输出目录设置*      
 ![img_3.png](img_3.png)         
 
-*详细设置*      
+*详细设置*          
 ![img_4.png](img_4.png)     
 
 ![img_5.png](img_5.png)     
@@ -105,12 +105,13 @@ Jetbrains公司官网
 主要用于程序调试，查找和定位错误        
 
 *Debug(调试)步骤*       
-- 1 添加断点
+
+- 1 添加断点    
     ![img_16.png](img_16.png)    
-- 2 启动调试
+- 2 启动调试    
     ![img_17.png](img_17.png)    
 
-- 3 单步执行
+- 3 单步执行    
     ![img_18.png](img_18.png)     
     ![img_19.png](img_19.png)     
     - ![img_20.png](img_20.png)  Step Over(F8)     
