@@ -1,4 +1,4 @@
-package site.weew12.chapter10;
+package site.weew12.chapter10.practice;
 
 /**
  * 3.5守护线程测试
