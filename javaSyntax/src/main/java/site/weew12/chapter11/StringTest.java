@@ -79,6 +79,10 @@ public class StringTest {
 //        test2();
 //        test3();
 //        test4();
-        test5();
+//        test5();
+
+        int num = 123456;
+        String str = String.valueOf(num);
+        System.out.println(str);
     }
 }
