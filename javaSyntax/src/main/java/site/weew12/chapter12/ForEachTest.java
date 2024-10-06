@@ -1,5 +1,6 @@
 package site.weew12.chapter12;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -22,6 +23,15 @@ public class ForEachTest {
         for (int i = 0; i < strings.length; i++) {
             System.out.println(strings[i]);
         }
+        ArrayList<Integer> integers = new ArrayList<>();
+        integers.add(1);
+        integers.add(1);
+        integers.add(1);
+        integers.add(1);
+        for (Integer integer : integers) {
+            System.out.println(integer);
+        }
+
     }
 
     public static void main(String[] args) {
